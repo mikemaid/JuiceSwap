@@ -7,7 +7,7 @@
   "timestamp": "2021-02-10T16:00:00.809+00:00",
   "tokens": [
     {
-      "chainId": 777,
+      "chainId": 1,
       "address": "0xac09e0b3385F6550d74566B0E03b35cDB6fc1f4b",
       "name": "Vin",
       "symbol": "VIN",

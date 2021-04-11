@@ -7,8 +7,8 @@
   "timestamp": "2021-02-10T16:00:00.809+00:00",
   "tokens": [
     {
-      "chainId": 777,
-      "address": "0x217521669c21bA50c7eeD5E5EC53d016a4b308Fe",
+      "chainId": 1,
+      "address": "0xadC8f46207F57439871dDf1d6FF9387B9cc757dB",
       "name": "Health Coin",
       "symbol": "HLTH",
       "decimals": 18,

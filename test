@@ -1,18 +1,19 @@
 {
   "name": "Default List",
-  "logoURI": "https://ipfs.io/ipfs/QmaypvtnoXGQo4gSGHjgXaMUY98hf2FotQRfXgdLL4jo4i",
+  "logoURI": "https://juicenetwork.io/list.png",
   "keywords": [
-    "Health Coin"
+    "Lucid",
+    "Health"
   ],
   "timestamp": "2021-02-10T16:00:00.809+00:00",
   "tokens": [
     {
-      "chainId": 1,
+      "chainId": 999,
       "address": "0xadC8f46207F57439871dDf1d6FF9387B9cc757dB",
       "name": "Health Coin",
       "symbol": "HLTH",
       "decimals": 18,
-      "logoURI": "https://i.ibb.co/x1wVVrm/KenCoin.png"
+      "logoURI": "https://healthcoin.life/logo.png"
     }
   ],
   "version": {

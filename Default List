@@ -4,6 +4,7 @@
   "keywords": [
     "Lucid",
     "Health",
+    "Aura",
     "Nebula"
   ],
   "timestamp": "2021-02-10T16:00:00.809+00:00",
@@ -19,6 +20,15 @@
 
     {
       "chainId": 999,
+      "address": "0xc269eb649D035d0e0236F431a3769eDBB7e5e20a",
+      "name": "Aura Coin",
+      "symbol": "AURA",
+      "decimals": 18,
+      "logoURI": "https://auracoin.us/logo.png"
+    },
+
+    {
+      "chainId": 999,
       "address": "0x3C0Eb33a40904c11e1F8c03108eCBD752936FC16",
       "name": "Nebula Token",
       "symbol": "NBLA",
@@ -27,7 +37,7 @@
     }
   ],
   "version": {
-    "major": 2,
+    "major": 3,
     "minor": 0,
     "patch": 0
   }

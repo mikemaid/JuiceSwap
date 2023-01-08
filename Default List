@@ -7,11 +7,11 @@
     "Aura",
     "Nebula"
   ],
-  "timestamp": "2021-02-10T16:00:00.809+00:00",
+  "timestamp": "2023-01-01T00:00:00.000+00:00",
   "tokens": [
     {
-      "chainId": 999,
-      "address": "0xadC8f46207F57439871dDf1d6FF9387B9cc757dB",
+      "chainId": 800,
+      "address": "0xfA6d78FD29e85aE9eEB9361EeCeeA497710cF078",
       "name": "Health Coin",
       "symbol": "HLTH",
       "decimals": 18,
@@ -19,8 +19,8 @@
     },
 
     {
-      "chainId": 999,
-      "address": "0xc269eb649D035d0e0236F431a3769eDBB7e5e20a",
+      "chainId": 800,
+      "address": "0x2a33A46B1777b99Db9933D3b6AF5524d0109920b",
       "name": "Aura Coin",
       "symbol": "AURA",
       "decimals": 18,
@@ -28,8 +28,8 @@
     },
 
     {
-      "chainId": 999,
-      "address": "0x3C0Eb33a40904c11e1F8c03108eCBD752936FC16",
+      "chainId": 800,
+      "address": "0x21873cc67B9511BD79683B75e849dC827e8F5605",
       "name": "Nebula Token",
       "symbol": "NBLA",
       "decimals": 18,
@@ -37,7 +37,7 @@
     }
   ],
   "version": {
-    "major": 3,
+    "major": 1,
     "minor": 0,
     "patch": 0
   }
